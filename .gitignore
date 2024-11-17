@@ -6,7 +6,9 @@ build/
 dist/
 .pytest_cache/
 .vscode/
-
+docs
+docs/*
+git-author-rewrite.sh
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
