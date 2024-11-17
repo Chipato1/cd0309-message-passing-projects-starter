@@ -1,8 +1,6 @@
-# UdaConnect
-
 # My Submission for the Udacity Cloud Native Program
 
-
+## UdaConnect
 
 
 ### Environment Setup
